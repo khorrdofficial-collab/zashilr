@@ -1,0 +1,8 @@
+{
+  "name": "SixSide League",
+  "description": "FotMob-style 6-team football league manager with auto-generated round-robin fixtures, past match sync, Top 4 knockouts, player scorers & assists, and multi-season history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
